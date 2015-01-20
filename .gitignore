@@ -6,3 +6,6 @@ _site
 
 # OS weirdness
 *.DS_Store
+
+.Rhistory
+Thumbs.db
